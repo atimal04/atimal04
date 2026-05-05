@@ -1,16 +1,13 @@
-## Hi there 👋
+## atimal04
 
-<!--
-**atimal04/atimal04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Penetration tester in training. 60+ macchine su HackTheBox, da Easy a Insane.
+Focus su Active Directory e web exploitation.
 
-Here are some ideas to get you started:
+eJPT certified · Security+ incoming · PNPT planned
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cosa trovi qui:**
+- writeups su macchine HTB retired
+- note tecniche su AD, privesc, web
+- script che uso durante i test
+
+Contatti: atimal04@pm.me
