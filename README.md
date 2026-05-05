@@ -6,7 +6,7 @@ Focus on Active Directory attacks and web exploitation.
 eJPT certified · Security+ certified · PNPT planned
 
 **What you'll find here:**
-- writeups on retired HTB machines
+- [htb-writeups](https://github.com/atimal04/htb-writeups) — reports on retired HTB machines
 - technical notes on AD, privesc, web
 - scripts I use during assessments
 
