@@ -1,13 +1,13 @@
-## atimal04
+# atimal04
 
-Penetration tester in training. 60+ macchine su HackTheBox, da Easy a Insane.
-Focus su Active Directory e web exploitation.
+Penetration tester in training. 60+ machines on HackTheBox, from Easy to Insane.
+Focus on Active Directory attacks and web exploitation.
 
-eJPT certified · Security+ incoming · PNPT planned
+eJPT certified · Security+ certified · PNPT planned
 
-**Cosa trovi qui:**
-- writeups su macchine HTB retired
-- note tecniche su AD, privesc, web
-- script che uso durante i test
+**What you'll find here:**
+- writeups on retired HTB machines
+- technical notes on AD, privesc, web
+- scripts I use during assessments
 
-Contatti: atimal04@pm.me
+Contact: atimal04@pm.me
