@@ -1,6 +1,6 @@
 # atimal04
 
-Penetration tester in training. 60+ machines on HackTheBox, from Easy to Insane.
+Penetration tester in training. 70+ machines on HackTheBox, from Easy to Insane.
 Focus on Active Directory attacks and web exploitation.
 
 eJPT certified · Security+ certified · PNPT planned
